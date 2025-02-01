@@ -1,1 +1,1 @@
-# Odin recipes Html
+# Odin recipes project using Html
